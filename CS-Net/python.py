@@ -1,2 +1,0 @@
-#hiiii
-print("Hello Pacs!")
